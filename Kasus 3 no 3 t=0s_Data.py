@@ -1,0 +1,52 @@
+Python 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: D:\Semester 5\Prak Fiskom\Projek Akhir\Problem 3\nomor 3. 1Dimensi.py
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.00 Celcius
+t: 0.000 s, Suhu rata-rata: 21.80 Celcius
